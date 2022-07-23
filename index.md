@@ -1,59 +1,58 @@
-### Mi nombre es Carlos Salvador 👋
-#### Desarrollador web junior full-stack 💻♨️
+Hola soy Adriana Monserrath Núñez Benavides👋
+=
+Estudiante de Software de la Universidad Técnica de Ambato💻
+-
+___
 
+Sobre mi:
+-
 
+- Soy bachiller Técnico de Servicios en Aplicaciones informáticas graduada en el Instituto Tecnológico Superior "Hispano América".
+- Nací el 01 de octubre de 1999, tengo 22 años.
+- Soy de la ciudad de Ambato-Ecuador.
 
-#### Actualmente me dedico a:
-
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías (Vue, Python, PhP)
-- Colaborar en un proyecto full stack 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Trabajando en Santander Global Tech como desarrollador Full Stack, principalmente en la parte front
 ___
 
 
-#### Tengo conocimientos sobre:
+Tengo conocimientos sobre:
+-
+#### Lenguajes de programación 👩‍💻
 
-##### Programming languages
 
-JavaScript, Php, TypeScript, SQL
-
-____
-
-##### FrontEnd Development
-
-Angular, Vue, JavaScript, HTML, CSS, Bootstrap, pug, hbs
+    C++, C#, Java, VisualBasic, SQL
 
 ____
 
-##### Backend Development
+##### FrontEnd Development  🖍
 
-NodeJs, PHP, JavaScript
+    Angular, Vue, JavaScript, HTML, CSS, Bootstrap, Vaadin
+
+____
+
+##### Backend Development 💻
+
+    NodeJs, PHP, JavaScript. SpringBoot
 
 _____
 
-##### Database
+#### Bases de Datos⚡
 
-MySQL, MariaDB, mongoDB, PostgreSQL
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />                                   
+ <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />                                  
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">                                                          
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />            
+ <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />              
 
 _____
 
- ##### Others
- 
- FireBase, Postman, Git y Github, SourceTree...
 
 
+## 📱 Contactos [🔝](#welcome-badges-4-readmemd-profile)
 
-#### ¿Hablamos?☕️
+| RedSocial                                                                                                                         | Contacto                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                         | `nunezadriana1999@gmail.com`                         |                      |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />                   | `https://www.linkedin.com/in/adriana-monserrath-n%C3%BA%C3%B1ez-benavides-a1320a236/`                   |
 
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/carlossalvadordiaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/carlossalvadordiaz" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
-
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
-</p>
-
-
-
-
+----------------------------------
