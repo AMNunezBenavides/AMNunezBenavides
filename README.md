@@ -60,6 +60,6 @@ _____
 ----
 
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=EdwLearn&show_icons=true&theme=radical"></center>
+<center><img src="https://github-readme-stats.vercel.app/api?username=AMNunezBenavides&show_icons=true&theme=radical"></center>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwLearn#center)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AMNunezBenavide#center)
