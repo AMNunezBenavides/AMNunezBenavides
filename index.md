@@ -56,3 +56,10 @@ _____
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />                   | `https://www.linkedin.com/in/adriana-monserrath-n%C3%BA%C3%B1ez-benavides-a1320a236/`                   |
 
 ----------------------------------
+### 📈Estadísticas con GitHub:
+----
+
+
+<center><img src="https://github-readme-stats.vercel.app/api?username=AMNunezBenavides&show_icons=true&theme=radical"></center>
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AMNunezBenavide#center)
