@@ -43,24 +43,6 @@ _____
  FireBase, Postman, Git y Github, SourceTree...
 
 
-#### Algunos de mis proyectos:
-
-<!-- imagenes para la tabla:
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   -->
-
-
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
-| Gym Database  | BurguerResponsivePage  | Chat(socket.io)  |
-|---|---|---|
-| <a href="https://https://github.com/carlossalvadordiaz/AppGymFront" target="_blank"> <img src="/images/listaClientesAngular.png" width="250" height="200"/></a> |  <a href="https://https://github.com/carlossalvadordiaz/Hamburgueseria" target="_blank"> <img src="/images/hamburguesa.jpg" width="250" height="200"/></a> | <a href="https://github.com/carlossalvadordiaz/Chat" target="_blank"> <img src="/images/chat.png" width="250" height="200"/></a>  |
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
-
 
 #### ¿Hablamos?☕️
 
