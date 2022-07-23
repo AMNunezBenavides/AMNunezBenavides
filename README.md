@@ -56,7 +56,7 @@ _____
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />                   | `https://www.linkedin.com/in/adriana-monserrath-n%C3%BA%C3%B1ez-benavides-a1320a236/`                   |
 
 ----------------------------------
-### 📈Some of my stats are:
+### 📈Estadísticas con GitHub:
 ----
 
 
