@@ -8,6 +8,7 @@ Sobre mi:
 -
 
 - Soy bachiller Técnico de Servicios en Aplicaciones informáticas graduada en el Instituto Tecnológico Superior "Hispano América".
+- Actualmente curso el octavo semestre de la carrera de Ingeniería en Software de la Universidad Técnica de Ambato
 - Nací el 01 de octubre de 1999, tengo 22 años.
 - Soy de la ciudad de Ambato-Ecuador.
 
